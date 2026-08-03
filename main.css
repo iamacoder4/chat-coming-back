@@ -1,0 +1,59 @@
+body {
+    background:#0b0b0f;
+    color:white;
+    font-family:Arial, sans-serif;
+}
+
+
+.logo {
+    text-align:center;
+    margin-top:80px;
+}
+
+
+.logo h1 {
+    font-size:45px;
+}
+
+
+.logo h3 {
+    color:#5865ff;
+    letter-spacing:5px;
+}
+
+
+.login-box {
+
+width:350px;
+margin:auto;
+background:#15151c;
+padding:30px;
+border-radius:15px;
+text-align:center;
+
+}
+
+
+input {
+
+width:90%;
+padding:12px;
+background:#222;
+border:none;
+color:white;
+border-radius:8px;
+
+}
+
+
+button {
+
+margin-top:15px;
+padding:12px 30px;
+background:#5865ff;
+color:white;
+border:none;
+border-radius:8px;
+cursor:pointer;
+
+}
